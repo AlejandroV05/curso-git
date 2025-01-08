@@ -1,9 +1,16 @@
 body{
-    
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+    color: blue;
+    margin: 0;
+    padding: 0;
 }
 
 header{
-
+    background: color #4caf50;;
+    color: azure;
+    padding: 10%;
+    text-align: center;
 }
 footer{
     background-color:#333;
